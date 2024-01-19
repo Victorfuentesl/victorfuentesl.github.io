@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Open-Source Research
+description: Discover a curated selection of open-source repositories reflecting my contributions to the field of Artificial Intelligence. Explore projects that emphasize collaborative efforts and contribute to the ongoing advancements in this domain.
 nav: true
 nav_order: 4
 ---
 
-## GitHub users
+## GitHub User
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

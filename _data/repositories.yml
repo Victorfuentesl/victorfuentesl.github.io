@@ -2,10 +2,6 @@ github_users:
   - JonaRuthardt
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - JonaRuthardt/SocraticImageGeneration
+  - JonaRuthardt/HOME-Heuristic-Optimization-for-Model-Engineers-Dashboard
+  - JonaRuthardt/MLRC-CartoonX

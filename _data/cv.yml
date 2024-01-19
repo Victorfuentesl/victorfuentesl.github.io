@@ -85,6 +85,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Accapted into MSc Honours Programme offered by the ELLIS Unit Amsterdam
     - year: 2022
       items: 
         - Award for Best Bachelor's Thesis of the 2021 and 2022 academic year in the domain of Artificial Intelligence across all establishments and locations of the Baden-Wuerttemberg Cooperative State University.

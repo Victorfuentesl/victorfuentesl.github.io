@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got to present a poster at NeurIPS 2023 in New Orleans
+Got to present a poster at NeurIPS 2023 in New Orleans 🎷
