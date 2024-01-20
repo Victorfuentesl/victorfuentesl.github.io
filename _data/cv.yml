@@ -18,7 +18,7 @@
       year: 09/22-07/24
       description:
         - Master of Science, Artificial Intelligence
-        - Courses in TODO
+        - Courses in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Information Retrieval, Philosophy
     - title: IoT and AI Summer School
       institution: Université Sorbonne Paris Nord, Paris (FR)
       year: 07/23
@@ -28,7 +28,7 @@
       description:
         - Bachelor of Science, Computer Science (IT-Automotive)
         - Dual study degree in cooperation with Robert Bosch GmbH
-        - Courses in TODO
+        - Courses in Computer Engineering, Programming, Software Engineering, Automotive Software Development
 
 - title: Experience
   type: time_table
