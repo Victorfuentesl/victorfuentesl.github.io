@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jona Ruthardt
     - name: Occupation
-      value: Master's Student at University of Amsterdam
+      value: PhD Student @ Fundamental AI Lab (UTN)
     - name: Nationality
       value: German
     - name: Languages
@@ -13,6 +13,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD Student @ Fundamental AI Lab
+      institution: University of Technology Nuremberg, Nuremberg (DE)
+      year: 12/24-Present
+      description:
+        - Researching Computer Vision, Multi-Modal Learning, and Efficient Deep Learning
+        - Teching in Multi-Modal Models Course
     - title: MSc Artificial Intelligence
       institution: University of Amsterdam, Amsterdam (NL)
       year: 09/22-07/24
@@ -35,13 +41,13 @@
   contents:
     - title: Computer Vision Research Intern
       institution: TNO - Intelligent Imaging Group, The Hague (NL)
-      year: 11/23-now
+      year: 11/23-07/24
       description:
         - Research into how large language models can be utilized for low-resource image classification
         - Master’s thesis is part of internship at TNO’s Intelligent Imaging Group
     - title: Research Assistant
       institution: University of Amsterdam, Amsterdam (NL)
-      year: 04/23-now
+      year: 04/23-07/24
       description:
         - Investigation into exploiting generalization capabilities of large language models in vision domain
         - Extracurricular research project supervised by Dr. Yuki Asano (QUVA Lab)
@@ -97,6 +103,17 @@
     - year: 2018
       items: 
         - DPG Baccalaureate Prize for exceptional achievements in physics during high school
+
+- title: Past Grants and Funding
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - ELLIS MSc Honors Mobility Grant (4,000€)
+    - year: 2023
+      items: 
+        - UvA MSc AI Conference Grant (500€)
+        - UvA University Fund Travel Grant (800€)
 
 # - title: Academic Interests
 #   type: nested_list
