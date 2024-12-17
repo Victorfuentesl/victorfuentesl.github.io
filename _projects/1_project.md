@@ -10,7 +10,7 @@ redirect: /project/ShareLock/
 published: true
 ---
 
-<meta http-equiv="refresh" content="0; url={{ '/project/ShareLock' | relative_url }}" />
+<meta http-equiv="refresh" content="0; url={{ '/project/ShareLock/' | relative_url }}" />
 
 ... Loading Project Page ...
 
