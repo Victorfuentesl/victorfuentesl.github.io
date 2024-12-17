@@ -7,7 +7,7 @@ importance: 1
 category: work
 related_publications: true
 permalink: /projects/ShareLock
-destination: /project/ShareLock/index.html
+destination: /project/ShareLock/
 canonical: false
 published: true
 ---
