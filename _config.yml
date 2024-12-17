@@ -170,7 +170,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    enabled: false
+    enabled: true
     output: true
     permalink: /projects/:path/
 
