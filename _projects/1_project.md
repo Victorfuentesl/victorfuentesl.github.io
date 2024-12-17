@@ -6,7 +6,8 @@ img: assets/img/publication_preview/ShareLock.png
 importance: 1
 category: work
 related_publications: true
-permalink: /projects/ShareLock
+permalink: /project/ShareLock
+canonical: false
 published: true
 ---
 
