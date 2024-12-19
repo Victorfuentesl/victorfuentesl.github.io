@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially started my PhD journey at UTN
+Officially started my PhD journey at the University of Technology Nuremberg
