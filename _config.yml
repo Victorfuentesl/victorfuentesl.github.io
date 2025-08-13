@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Ruthardt]
-  first_name: [Jona, J., J. M. , Jona M.]
+  last_name: [Fuentes]
+  first_name: [Victor, V., V. F. , Victor F.]
 
   style: apa
   locale: en
