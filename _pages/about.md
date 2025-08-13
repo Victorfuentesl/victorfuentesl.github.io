@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD in Artificial Intelligence @ UTN
+subtitle: PhD in Mathematics @ UBO Brest
 
 profile:
   align: right
-  image: profile_pic_jona_ruthardt.jpg
+  image: profile_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Nuremberg, Germany</p>
+    <p>Britanny, France</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
