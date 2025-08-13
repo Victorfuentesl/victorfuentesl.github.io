@@ -6,7 +6,7 @@ subtitle: PhD in Mathematics @ UBO Brest
 
 profile:
   align: right
-  image: profile_pic.png
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Britanny, France</p>
