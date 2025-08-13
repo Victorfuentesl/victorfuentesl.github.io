@@ -10,7 +10,7 @@ email: victor.fuenteslabra@univ-brest.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Victor Fuentes Labra, a PhD candidate in Mathematics.
 footer_text: 
-keywords: mathematics-PhD, research, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: mathematics-phd, research, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔭  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
