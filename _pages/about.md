@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Britanny, France</p>
+    <p> Britanny, France</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student in the [Fundamental AI (FunAI) Lab](https://fundamentalailab.github.io/) at the [University of Technology Nuremberg (UTN)](https://www.utn.de) under the supervision of [Prof. Yuki Asano](https://yukimasano.github.io/) and [Dr. Armand Joulin](https://www.linkedin.com/in/armand-joulin-0274254/).
-My research interests mainly revolve around **Computer Vision**, **Multi-Modal Learning**, and **Efficient Deep Learning**. I am excited about developing innovative AI solutions that transcend theoretical boundaries and address tangible real-world challenges.
+I am a first year PhD student in Mathematics at the [Université de Bretagne-Occidentale (UBO)](https://www.univ-brest.fr) under the supervision of [Prof. Eric Loubeau](https://www.univ-brest.fr/departement-mathematiques/fr/membre/eric-loubeau) and [Dr. Volker Branding](http://www.volker-branding.eu/).
+My research interests mainly revolve around **Geometric Analysis**, **(pseudo-) Riemannian Geometry**, and **Mathematical General Relativity**. I am excited about developing examples for the existence of biharmonic maps of degree 1 from the 2-torus onto the 2-sphere.
 
-Previously, I obtained my MSc in Artificial Intelligence from the University of Amsterdam. During my master's thesis, I got to work together with [Dr. Gertjan Burghouts](https://gertjanburghouts.github.io/) and [Prof. Serge Belongie](https://sergebelongie.github.io) as part of the [ELLIS MSc Honors Program](https://ivi.fnwi.uva.nl/ellis/funding-opportunities/).
+Previously, I obtained my MSc in Fundamental Mathematics from the Université de Rennes 1. During my master's thesis, I got to work together with [Dr. Juan Souto](https://sites.google.com/site/jsoutoc/home) on [classical comparison theorems in Riemannian geometry](https://drive.google.com/file/d/1NMo7R73wnayVPc__1KHmrQqrqbSumFK5/view?usp=sharing).
 
-I’m always excited to connect and collaborate with fellow researchers and students - don’t hesitate to get in touch if you’d like to join forces on exciting AI projects!
+I’m always excited to connect and collaborate with fellow researchers and students - don’t hesitate to get in touch if you’d like to join forces on exciting geometrical/analytical projects!
