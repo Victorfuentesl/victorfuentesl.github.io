@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Teaching
 permalink: /projects/
 description: A growing collection of AI projects I worked on. Check them out!
 nav: true
