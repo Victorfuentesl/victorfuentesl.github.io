@@ -32,9 +32,9 @@
          - MSc. Thesis; The Schwarzschild metric as a solution to Einstein’s field equations, supervised by Dr. Rodrigo Castro 
          - Courses in abstract algebra, real & complex analysis, functional analysis, algebraic topology, differential geometry, mathematical physics
         
-    - title: BSc Educational Studies in Mathematics and Computer Science
+    - title: Educational Studies in Mathematics and Computer Science
       institution: University of Playa Ancha, Valparaiso (CL)
-      year: 3/09-3/15
+      year: 03/09-03/15
       description:
          - BSc. Thesis;  Proposal for an appropriate mathematical model for high school that describes electromagnetic phenomena associated with the Special Theory of Relativity supervised by Dr. Alejandro Nettle
          - Dual study degree in education of mathematics and computer sciences
@@ -91,24 +91,7 @@
 #       year: 15-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - Accapted into MSc Honours Programme offered by the ELLIS Unit Amsterdam
 
-
-- title: Past Grants and Funding
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - ELLIS MSc Honors Mobility Grant (4,000€)
-    - year: 2023
-      items: 
-        - UvA MSc AI Conference Grant (500€)
-        - UvA University Fund Travel Grant (800€)
 
 # - title: Academic Interests
 #   type: nested_list
