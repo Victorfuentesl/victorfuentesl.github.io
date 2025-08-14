@@ -9,16 +9,12 @@ nav_order: 2
 
 No papers
 
- <!-- _pages/research.md -->
- <div class="research">
+<!-- _pages/research.md -->
+<div class="publications">
 
- {% bibliography %}
+{% bibliography %}
 
- </div>
-
----
-
-
+</div>
 
 
 <h1 style="font-size:2em; font-weight:bold;">Seminars and talks</h1> 
