@@ -14,7 +14,7 @@ No papers
 
  {% bibliography %}
 
- </div>
+
 
 
 <h1 style="font-size:2em; font-weight:bold;">Seminars and talks</h1> 
@@ -23,4 +23,4 @@ No papers
 
    2024 - Rennes M2 Seminar; Solutions of massless Vlasov equation on a fixed FLRW background with R³ spatial topology. [slides](https://victorfuentesl.github.io/assets/pdf/Seminar_M2_Beamer-2.pdf)
 
- 
+  </div>
