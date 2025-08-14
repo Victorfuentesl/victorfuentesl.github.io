@@ -60,22 +60,18 @@
       description:
         - Teaching and supervising tutorials as part of the UvA Deep Learning 1 course (master’s level)
         - Contributing to and grading assignments and exams
-    - title: Data Analyst (Comercial Internal Auditing)
-      institution: Robert Bosch GmbH, Stuttgart (DE)
-      year: 10/21-08/23
+    - title: Fixed-term lecturer
+      institution: Department of Mathematics - University of Valparaiso, Valparaiso (CL) 
+      year: 03/20-12/21
       description:
-        - Supported commercial audits from a data analytics perspective by extracting data from corporate IT systems (e.g., SAP, data lake) and preparing dashboards (Excel, PowerBI) containing important KPIs and visualizations
-        - Participated in Risk Management System audit and developed data analytics concept utilizing data from internal reporting tool
-        - Utilized (un)supervised ML methods to develop and enhance analyses (anomaly detection in transactions, clustering of process and document types, double posting detection) using Python libraries such as scikit-learn or Keras
-        - Developed approach that identified multiple compliance violations based on patterns in previous cases, and reporting framework for anti-money laundry that is actively used by legal division in the role of technical topic owner for fraud analytics
-
-    - title: Dual Study Program Student
-      institution: Department of Mathematics, Liceo Santa Teresa de Valparaíso, Valparaíso (CL)
-      year: 03/16-12/20
+        - Teaching and supervising tutorials as part of Calculus 1, calculus 2, Euclidean and Non-euclidean Geometry courses (Bachelor level)
+        - Contributing to and grading assignments and exams
+    - title: Fixed-term lecturer
+      institution:  Department of Mathematics - Pontifical Catholic University of Valparaíso, Valparaiso (CL)
+      year: 07/19-12/19
       description:
-        - Participated in a dual study degree program in the field of study of computer science (specialization IT-Automotive) 
-        - Conducted several multi-month internships and research projects (see "Projects" section) at different business units and departments with an emphasis on artificial intelligence, computer vision, and autonomous driving
-
+        - Teaching and supervising tutorials as part of Calculus 2 & 3 course (Engineering degree)
+        - Contributing to and grading assignments and exams
     - title: High School Mathematics Teaching
       institution: Department of Mathematics, Liceo Santa Teresa de Valparaíso, Valparaíso (CL)
       year: 03/16-12/20
