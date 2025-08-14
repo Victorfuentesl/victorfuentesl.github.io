@@ -42,24 +42,24 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research intership
+    - title: Research Intership
       institution: IRMAR - University of Rennes, Rennes (FR)
       year: 04/24-07/24
       description:
         - Studying the interaction between local and global properties of a Riemannian manifold, moreover the classical results in comparison geometry
         - Master's thesis is part of internship at IRMAR supervised by Dr. Juan Souto 
+    - title: Research Intership 
+      institution: IRMAR - University of Rennes, Rennes (FR)
+      year: 09/23-12/23
+      description:
+        - Studying solutions of massless Vlasov equation on a fixed FLRW background with R3 spatial topology
+        - Research project supervised by Dr. Leo Bigorgne
     - title: Research Assistant
-      institution: University of Amsterdam, Amsterdam (NL)
-      year: 04/23-07/24
+      institution: IMUV - University of Valparaiso, Valparaiso (CL)
+      year: 11/20-05/21
       description:
-        - Investigation into exploiting generalization capabilities of large language models in vision domain
-        - Extracurricular research project supervised by Dr. Yuki Asano (QUVA Lab)
-    - title: Teaching Assistant
-      institution: University of Amsterdam, Amsterdam (NL)
-      year: 11/23-01/24
-      description:
-        - Teaching and supervising tutorials as part of the UvA Deep Learning 1 course (master’s level)
-        - Contributing to and grading assignments and exams
+        - Research on Simple pseudopotential generalization for the KdV equation using the modified Camassa–Holm equation
+        - Research project supervised by Dr. Rodrigo Castro
     - title: Fixed-term lecturer
       institution: Department of Mathematics - University of Valparaiso, Valparaiso (CL) 
       year: 03/20-12/21
@@ -76,7 +76,7 @@
       institution: Department of Mathematics, Liceo Santa Teresa de Valparaíso, Valparaíso (CL)
       year: 03/16-12/20
       description:
-        - In all these courses I was responsible for creating lesson plans and course material, as well as checking and assessing students work
+        - In all level courses I was responsible for creating lesson plans and course material, as well as checking and assessing students work
         - Teaching and examining was moved online since April 2020 due to the COVID-19 pandemic
 
 # - title: Open Source Projects
