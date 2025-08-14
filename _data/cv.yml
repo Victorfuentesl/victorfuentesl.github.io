@@ -2,28 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Jona Ruthardt
+      value: Victor Jonathan Fuentes Labra
     - name: Occupation
-      value: PhD Student @ Fundamental AI Lab (UTN)
+      value: PhD Student in Mathematics (UBO)
     - name: Nationality
-      value: German
+      value: Chilean
     - name: Languages
-      value: English, German
+      value: Spanish, French, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Student @ Fundamental AI Lab
-      institution: University of Technology Nuremberg, Nuremberg (DE)
-      year: 12/24-Present
+    - title: PhD Student in Mathematics
+      institution: Université de Bretagne Occidentale, Brest (FR)
+      year: 02/25-Present
       description:
-        - Researching Computer Vision, Multi-Modal Learning, and Efficient Deep Learning
-        - Teching in Multi-Modal Models Course
-    - title: MSc Artificial Intelligence
-      institution: University of Amsterdam, Amsterdam (NL)
-      year: 09/22-07/24
+        - Researching Biharmonic maps between manifolds
+    - title: MSc Fundamental Mathematics
+      institution: Université de Rennes, Rennes (FR)
+      year: 09/23-07/24
       description:
-        - Master of Science, Artificial Intelligence
+        - Master of Science, Mathematics and applications
         - Courses in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Information Retrieval, Philosophy
     - title: IoT and AI Summer School
       institution: Université Sorbonne Paris Nord, Paris (FR)
