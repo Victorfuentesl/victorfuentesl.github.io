@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p> LMBA - UBO </p>
     <p> 6 Av. Victor le Gorgeu  </p> 
-    <p> 29200 Brest  </p> 
-    <p> France  </p> 
+    29200 Brest,  
+    France 
     
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
