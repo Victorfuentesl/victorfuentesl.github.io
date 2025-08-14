@@ -29,12 +29,13 @@ published: true
  
  <h1 style="font-size:2em; font-weight:bold;"> Universidad de Valparaiso </h1> 
 
- During the year 2020 - 2021 I taught the following subjects:
+ During the year 2020 - 2021 I taught the following subjects
+ 
+    Calculus I for careers of Bachelor of Science mention Biology, Chemistry, Bachelor of Physics, Eng. in Statistics and Bachelor in Mathematics
+    
+    Euclidean Geometry for Mathematics Degree
+    
 
-    -Calculus I for careers of Bachelor of Science mention Biology/Chemistry, Bachelor of Physics, Eng. in Statistics and Bachelor in Mathematics
-
-    -Euclidean Geometry for Mathematics Degree
-
- During 2019 I taught the following subjects:
-
-    -Calculus II for Civil Industrial Engineering degree at the Pontifical Catholic University of Valparaíso, Chile.
+ During 2019 I taught the following subjects
+ 
+    Calculus II for Civil Industrial Engineering degree at the Pontifical Catholic University of Valparaíso, Chile.
