@@ -25,17 +25,19 @@ published: true
 
  <h1 style="font-size:2em; font-weight:bold;"> Université de Bretagne Occidentale </h1> 
 
+Spring 2025	- Real Analysis (L1 Mathematics), UBO Brest, 30h Tutorials.
 
+
+---
  
  <h1 style="font-size:2em; font-weight:bold;"> Universidad de Valparaiso </h1> 
 
  During the year 2020 - 2021 I taught the following subjects
  
-    Calculus I for careers of Bachelor of Science mention Biology, Chemistry, Bachelor of Physics, Eng. in Statistics and Bachelor in Mathematics
-    
-    Euclidean Geometry for Mathematics Degree
-    
+  -Calculus 1 (L1 Biology, Chemistry, Bachelor of Physics, Statistics and Mathematics)
+  
+  -Euclidean Geometry (L1 Mathematics)
+  
+---
 
- During 2019 I taught the following subjects
- 
-    Calculus II for Civil Industrial Engineering degree at the Pontifical Catholic University of Valparaíso, Chile.
+ During 2019 I taught Calculus 2 (Civil Industrial Engineering) at the Pontifical Catholic University of Valparaíso, Chile.
