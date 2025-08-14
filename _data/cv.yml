@@ -42,45 +42,47 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research intership 
-      institution: IRMAR - University of Rennes, Rennes (FR)
-      year: 04/24-07/24
+    - title: Computer Vision Research Intern
+      institution: TNO - Intelligent Imaging Group, The Hague (NL)
+      year: 11/23-07/24
       description:
-        - Classical results in comparison geometry; interaction between local and global properties of a Riemannian manifold
-        - Master’s thesis is part of internship at IRMAR supervised by Dr. Juan Souto 
-    - title: Research seminar
-      institution: IRMAR - University of Rennes, Rennes (FR)
-      year: 09/23-12/23
+        - Research into how large language models can be utilized for low-resource image classification
+        - Master’s thesis is part of internship at TNO’s Intelligent Imaging Group
+    - title: Research Assistant
+      institution: University of Amsterdam, Amsterdam (NL)
+      year: 04/23-07/24
       description:
-        - Solutions of massless Vlasov equation on a fixed FLRW background with R3 spatial topology
-        - Research project supervised by Dr. Leo Bigorgne
-    - title: Research Assistant 
-      institution: IMUV - University of Valparaiso, Valparaiso (CL)
-      year: 11/20-05/21
+        - Investigation into exploiting generalization capabilities of large language models in vision domain
+        - Extracurricular research project supervised by Dr. Yuki Asano (QUVA Lab)
+    - title: Teaching Assistant
+      institution: University of Amsterdam, Amsterdam (NL)
+      year: 11/23-01/24
       description:
-        - Research on Simple pseudopotential generalization for the KdV equation using the modified Camassa–Holm equation
-        - Research project supervised by Dr. Rodrigo Castro
-        
-    - title: Fixed-term lecturer
-      institution: Department of Mathematics - University of Valparaiso, Valparaiso (CL) 
-      year: 03/20-12/21
-      description:
-        - Teaching and supervising tutorials as part of Calculus 1, calculus 2, Euclidean and Non-euclidean Geometry courses (Bachelor level)
+        - Teaching and supervising tutorials as part of the UvA Deep Learning 1 course (master’s level)
         - Contributing to and grading assignments and exams
-
-     - title: Fixed-term lecturer
-      institution: Department of Mathematics - Pontifical Catholic University of Valparaíso, Valparaiso (CL) 
-      year: 07/19-12/19
+    - title: Data Analyst (Comercial Internal Auditing)
+      institution: Robert Bosch GmbH, Stuttgart (DE)
+      year: 10/21-08/23
       description:
-        - Teaching and supervising tutorials as part of Calculus 2 & 3 course (Engineering degree)
-        - Contributing to and grading assignments and exams
+        - Supported commercial audits from a data analytics perspective by extracting data from corporate IT systems (e.g., SAP, data lake) and preparing dashboards (Excel, PowerBI) containing important KPIs and visualizations
+        - Participated in Risk Management System audit and developed data analytics concept utilizing data from internal reporting tool
+        - Utilized (un)supervised ML methods to develop and enhance analyses (anomaly detection in transactions, clustering of process and document types, double posting detection) using Python libraries such as scikit-learn or Keras
+        - Developed approach that identified multiple compliance violations based on patterns in previous cases, and reporting framework for anti-money laundry that is actively used by legal division in the role of technical topic owner for fraud analytics
 
-    - title: High school math teacher
-      institution: Department of Mathematics, Liceo Santa Teresa de Valparaíso, Valparaíso (CL) 
-      year: 03/16-12/20
+    - title: Dual Study Program Student
+      institution: Robert Bosch GmbH, Stuttgart (DE)
+      year: 10/18-09/21
       description:
-        - In all these courses I was responsible for creating lesson plans and course material, as well as checking and assessing students work.
-        - Teaching and examining was moved online since April 2020 due to the COVID-19 pandemic.
+        - Participated in a dual study degree program in the field of study of computer science (specialization IT-Automotive) 
+        - Conducted several multi-month internships and research projects (see "Projects" section) at different business units and departments with an emphasis on artificial intelligence, computer vision, and autonomous driving
+
+    - title: Working Student - Infrastructure and Digitalization
+      institution: bc-competence gmbh, Renningen (DE)
+      year: 06/19-02/21
+      description:
+        - Managed project to adopt mobile device management (MDM) for Apple devices
+        - Set up and maintained IT infrastructure (local network, active directory, SAP, etc.)
+        - Involvement in the application for public research grants for cloud and digitization projects
 
 # - title: Open Source Projects
 #   type: time_table
