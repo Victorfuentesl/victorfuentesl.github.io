@@ -18,21 +18,22 @@
       year: 02/25-Present
       description:
         - Researching Biharmonic maps between manifolds
-    - title: MSc Fundamental Mathematics
+        
+    - title: Master of Science, Mathematics and applications
       institution: Université de Rennes, Rennes (FR)
       year: 09/23-07/24
       description:
-        - Master of Science, Mathematics and applications
         - Courses in spectral theory, microlocal analysis, sobolev spaces & elliptic equations, hyperbolic equations, differential topology, non linear wave equations & general relativity, semiriemannian geometry & calculus of variations, control theory & optimal control
         - MSc. Thesis; Classical results in comparison geometry, supervised by Dr. Juan Souto
-    - title: Master in Mathematics 
+        
+    - title: Master of Science, Mathematics and applications
       institution: University of Valparaiso, Valparaiso (CL)
       year: 03/19 - 12/21
       description:
-        - Master of Science, Mathematics and applications
         - Courses in abstract algebra, real & complex analysis, functional analysis, algebraic topology, differential geometry, mathematical physics
         - MSc. Thesis; The Schwarzschild metric as a solution to Einstein’s field
 equations, supervised by Dr. Rodrigo Castro
+
     - title: Educational Studies in Mathematics and Computer Science
       institution: University of Playa Ancha, Valparaiso (CL)
       year: 3/09-3/15
