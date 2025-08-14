@@ -17,8 +17,7 @@
       institution: Université de Bretagne Occidentale, Brest (FR)
       year: 02/25-Present
       description:
-        - Biharmonic maps from the torus to the sphere and the Cosserat
-energy between Riemannian manifolds
+        - Researching Biharmonic maps between manifolds
     - title: MSc Fundamental Mathematics
       institution: Université de Rennes, Rennes (FR)
       year: 09/23-07/24
@@ -88,7 +87,7 @@ energy between Riemannian manifolds
 #       year: 15-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-  - title: Honors and Awards
+- title: Honors and Awards
   type: time_table
   contents:
     - year: 2024
@@ -101,21 +100,19 @@ energy between Riemannian manifolds
       items: 
         - Award for Best Practical Achievements during Studies
     - year: 2018
-     items: 
+      items: 
         - DPG Baccalaureate Prize for exceptional achievements in physics during high school
 
 - title: Past Grants and Funding
   type: time_table
   contents:
-    - year: 2025
+    - year: 2024
       items:
-        - Public doctoral contract UBO, France.
-    - year: 2019
+        - ELLIS MSc Honors Mobility Grant (4,000€)
+    - year: 2023
       items: 
-        - UV Masters Scholarships in Mathematics, Universidad de Valparaíso, Chile
-    - year: 2009
-      items: 
-        - Government full funding for bachelor degree ‘Beca Bicentenario’, Chile
+        - UvA MSc AI Conference Grant (500€)
+        - UvA University Fund Travel Grant (800€)
 
 # - title: Academic Interests
 #   type: nested_list
