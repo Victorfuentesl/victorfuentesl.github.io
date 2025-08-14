@@ -42,18 +42,24 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Computer Vision Research Intern
-      institution: TNO - Intelligent Imaging Group, The Hague (NL)
-      year: 11/23-07/24
+     - title: Research intership 
+      institution: IRMAR - University of Rennes, Rennes (FR)
+      year: 04/24-07/24
       description:
-        - Research into how large language models can be utilized for low-resource image classification
-        - Master’s thesis is part of internship at TNO’s Intelligent Imaging Group
-    - title: Research Assistant
-      institution: University of Amsterdam, Amsterdam (NL)
-      year: 04/23-07/24
+        - Classical results in comparison geometry; interaction between local and global properties of a Riemannian manifold
+        - Master’s thesis is part of internship at IRMAR supervised by Dr. Juan Souto 
+    - title: Research seminar
+      institution: IRMAR - University of Rennes, Rennes (FR)
+      year: 09/23-12/23
       description:
-        - Investigation into exploiting generalization capabilities of large language models in vision domain
-        - Extracurricular research project supervised by Dr. Yuki Asano (QUVA Lab)
+        - Solutions of massless Vlasov equation on a fixed FLRW background with R3 spatial topology
+        - Research project supervised by Dr. Leo Bigorgne
+    - title: Research Assistant 
+      institution: IMUV - University of Valparaiso, Valparaiso (CL)
+      year: 11/20-05/21
+      description:
+        - Research on Simple pseudopotential generalization for the KdV equation using the modified Camassa–Holm equation
+        - Research project supervised by Dr. Rodrigo Castro
     - title: Teaching Assistant
       institution: University of Amsterdam, Amsterdam (NL)
       year: 11/23-01/24
