@@ -9,8 +9,8 @@ nav_order: 2
 
 No papers
 
- <!-- _pages/publications.md -->
- <div class="publications">
+ <!-- _pages/research.md -->
+ <div class="research">
 
  {% bibliography %}
 
