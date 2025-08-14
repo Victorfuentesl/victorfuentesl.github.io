@@ -11,6 +11,6 @@ No papers
  <!-- _pages/publications.md -->
  <div class="publications">
 
- <!-- {% bibliography %} -->
+ {% bibliography %} 
 
  </div>
