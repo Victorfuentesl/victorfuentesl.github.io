@@ -92,7 +92,7 @@
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Aditional training
-  type: time_table
+  type: list
   contents:
   -  items:
         - Master class in differential geometry; Flows and singular spaces, (University of Nantes & CNRS) Nantes, June 2025
@@ -102,7 +102,7 @@
         - Learn Python 3 (Codeacademy), e-learning, April 2023.
         - B1 French language training (CLPS), Rennes, France, December 2022.
         - Introduction to Cryptography by Christof Paar (Understanding Cryptography), e-learning, September 2022.
-        - Introduction to coffee (TallerCafé), Valparaíso, Chile, Enero 2022.
+        - Introduction to coffee (TallerCafé), Valparaíso, Chile, January 2022.
         - Prevention and fire fighting (SENCE), Chile, November 2019.
         - X Days of Mathematics IMUV (University of Valparaiso), Chile, December 2018.
         - Didactics, teaching and learning methodologies focused on the classroom (IST), Viña del Mar, Chile, August 2018.
