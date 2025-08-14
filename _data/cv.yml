@@ -42,12 +42,12 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Computer Vision Research Intern
-      institution: TNO - Intelligent Imaging Group, The Hague (NL)
-      year: 11/23-07/24
+    - title: Research intership
+      institution: IRMAR - University of Rennes, Rennes (FR)
+      year: 04/24-07/24
       description:
-        - Research into how large language models can be utilized for low-resource image classification
-        - Master’s thesis is part of internship at TNO’s Intelligent Imaging Group
+        - Studying the interaction between local and global properties of a Riemannian manifold, moreover the classical results in comparison geometry
+        - Master's thesis is part of internship at IRMAR supervised by Dr. Juan Souto 
     - title: Research Assistant
       institution: University of Amsterdam, Amsterdam (NL)
       year: 04/23-07/24
