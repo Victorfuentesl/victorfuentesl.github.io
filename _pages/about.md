@@ -9,8 +9,12 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Britanny, France</p>
-
+    <p> Laboratoire de Mathématiques de Bretagne Atlantique </p>
+    <p> Université de Bretagne-Occidentale  </p>
+    <p> 6 Av. Victor le Gorgeu  </p> 
+    <p> 29200 Brest  </p> 
+    <p> France  </p> 
+    
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
