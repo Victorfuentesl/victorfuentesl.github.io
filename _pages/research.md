@@ -10,9 +10,13 @@ nav_order: 2
 No papers
 
  <!-- _pages/research.md -->
- <div class="research"> </div>
+ <div class="research">
 
  {% bibliography %}
+
+ </div>
+
+---
 
 
 
