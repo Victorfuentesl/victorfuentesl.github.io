@@ -32,11 +32,10 @@ Spring 2025	- Real Analysis (L1 Mathematics), UBO Brest, 30h Tutorials.
  
  <h1 style="font-size:2em; font-weight:bold;"> Universidad de Valparaiso </h1> 
 
- During the year 2020 - 2021 I taught the following subjects
  
-  -Calculus 1 (L1 Biology, Chemistry, Bachelor of Physics, Statistics and Mathematics)
+  Fall 2020, Spring 2020, Fall 2021, Spring 2021 - Calculus 1 (L1 Biology, Chemistry, Bachelor of Physics, Statistics and Mathematics)
   
-  -Euclidean Geometry (L1 Mathematics)
+  Fall 2020, Spring 2020, Spring 2021 - Euclidean Geometry (L1 Mathematics)
   
 ---
 
