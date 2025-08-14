@@ -5,7 +5,7 @@ title: Research
 nav: true
 nav_order: 2
 ---
- <h1 style="font-size:3em; font-weight:bold;">Publications</h1> 
+ <h1 style="font-size:2em; font-weight:bold;">Publications</h1> 
 
 No papers
 
@@ -16,10 +16,8 @@ No papers
 
  </div>
 
----
 
-
-<h1 style="font-size:3em; font-weight:bold;">Seminars and talks</h1> 
+<h1 style="font-size:2em; font-weight:bold;">Seminars and talks</h1> 
  
    2024 - Rennes M2 talk for Semi-Riemannian geometry course; Lorentzian vector space. [slides](https://victorfuentesl.github.io/assets/pdf/Semi_Riemannian_Geometry_beamer.pdf)
 
