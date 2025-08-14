@@ -18,28 +18,24 @@
       year: 02/25-Present
       description:
         - Researching Biharmonic maps between manifolds
-        
-    - title: Master of Science, Mathematics and applications
+    - title: MSc Fundamental Mathematics
       institution: Université de Rennes, Rennes (FR)
       year: 09/23-07/24
       description:
-        - Courses in spectral theory, microlocal analysis, sobolev spaces & elliptic equations, hyperbolic equations, differential topology, non linear wave equations & general relativity, semiriemannian geometry & calculus of variations, control theory & optimal control
-        - MSc. Thesis; Classical results in comparison geometry, supervised by Dr. Juan Souto
-        
-    - title: Master of Science, Mathematics and applications
+        - Master of Science, Mathematics and applications
+        - Courses in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Information Retrieval, Philosophy
+    - title: Master in Mathematics 
       institution: University of Valparaiso, Valparaiso (CL)
       year: 03/19 - 12/21
       description:
-        - Courses in abstract algebra, real & complex analysis, functional analysis, algebraic topology, differential geometry, mathematical physics
-        - MSc. Thesis; The Schwarzschild metric as a solution to Einstein’s field
-equations, supervised by Dr. Rodrigo Castro
-
-    - title: Educational Studies in Mathematics and Computer Science
+        - Master of Science, Mathematics and applications
+        - Courses in 
+    - title: BSc Educational Studies in Mathematics and Computer Science
       institution: University of Playa Ancha, Valparaiso (CL)
       year: 3/09-3/15
       description:
         - Dual study degree in education of mathematics and computer sciences
-        - BSc. Thesis;  Proposal for an appropriate mathematical model for high school that describes electromagnetic phenomena associated with the Special Theory of Relativity, supervised by Dr. Alejandro Nettle
+        - BSc. Thesis;  Proposal for an appropriate mathematical model for high school that describes electromagnetic phenomena associated with the Special Theory of Relativity supervised by Dr. Alejandro Nettle
 
 - title: Experience
   type: time_table
