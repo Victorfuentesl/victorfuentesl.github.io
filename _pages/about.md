@@ -9,8 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> Laboratoire de Mathématiques de Bretagne Atlantique </p>
-    <p> Université de Bretagne-Occidentale  </p>
+    <p> LMBA - UBO </p>
     <p> 6 Av. Victor le Gorgeu  </p> 
     <p> 29200 Brest  </p> 
     <p> France  </p> 
