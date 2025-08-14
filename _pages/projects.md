@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description:  A growing collection of AI projects I worked on. Check them out!
+description:  A growing collection of lectures notes I worked on. Check them out!
 nav: true
 nav_order: 3
 display_categories: [work, fun]
