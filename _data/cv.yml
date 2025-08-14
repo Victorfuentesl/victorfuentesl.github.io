@@ -91,11 +91,10 @@
 #       year: 15-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Aditional training
   type: time_table
   contents:
-    - year: 2024
-      items:
+  -  items:
         - Accapted into MSc Honours Programme offered by the ELLIS Unit Amsterdam
 
 # - title: Academic Interests
