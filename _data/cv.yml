@@ -24,16 +24,18 @@
       description:
         - Master of Science, Mathematics and applications
         - Courses in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Information Retrieval, Philosophy
-    - title: IoT and AI Summer School
-      institution: Université Sorbonne Paris Nord, Paris (FR)
-      year: 07/23
-    - title: BSc Computer Science
-      institution: Baden-Wuerttemberg Cooperative State University, Stuttgart (DE)
-      year: 10/18-09/21
+    - title: Master in Mathematics 
+      institution: University of Valparaiso, Valparaiso (CL)
+      year: 03/19 - 12/21
       description:
-        - Bachelor of Science, Computer Science (IT-Automotive)
-        - Dual study degree in cooperation with Robert Bosch GmbH
-        - Courses in Computer Engineering, Programming, Software Engineering, Automotive Software Development
+        - Master of Science, Mathematics and applications
+        - Courses in 
+    - title: BSc Educational Studies in Mathematics and Computer Science
+      institution: University of Playa Ancha, Valparaiso (CL)
+      year: 3/09-3/15
+      description:
+        - Dual study degree in education of mathematics and computer sciences
+        - BSc. Thesis: Proposal for an appropriate mathematical model for high school that describes electromagnetic phenomena associated with the Special Theory of Relativity supervised by Dr. Alejandro Nettle
 
 - title: Experience
   type: time_table
