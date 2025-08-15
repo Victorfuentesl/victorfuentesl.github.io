@@ -6,11 +6,11 @@ nav: true
 nav_order: 2
 ---
  <h1 style="font-size:2em; font-weight:bold;">Publications</h1> 
-
-No papers submitted    
+  
 
 <div style="text-align: center;">
-This is also centered
+
+**No papers submitted**  
 </div>
 
 
@@ -26,9 +26,9 @@ This is also centered
 <br> <br>
 <h1 style="font-size:2em; font-weight:bold;">Thesis and reports</h1> 
 
-2024 MSc Thesis - [Classical results in comparison geometry](victorfuentesl.github.io/assets/pdf/Classical_results_in_comparison_geometry__Mémoire_M2__FUENTES_Victor.pdf), under supervision of Dr. Juan Souto
+2024 MSc Thesis - [Classical results in comparison geometry](https://victorfuentesl.github.io/assets/pdf/Classical_results_in_comparison_geometry__Mémoire_M2__FUENTES_Victor.pdf), under supervision of Dr. Juan Souto
 
-2021 MSc Thesis - [The Schwarzschild metric as a solution to Einstein’s field equations](victorfuentesl.github.io/assets/pdf/Abstract.pdf), supervised by Dr. Rodrigo Castro
+2021 MSc Thesis - [The Schwarzschild metric as a solution to Einstein’s field equations](https://victorfuentesl.github.io/assets/pdf/Abstract.pdf), supervised by Dr. Rodrigo Castro
 
 <br> <br>
 <h1 style="font-size:2em; font-weight:bold;">Seminars and talks</h1> 
