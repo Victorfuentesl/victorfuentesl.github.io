@@ -21,7 +21,7 @@ No papers submitted
 
 </div>
 
-<br> <br>
+<br> 
 ---
 
 <h1 style="font-size:2em; font-weight:bold;">Thesis and reports</h1> 
