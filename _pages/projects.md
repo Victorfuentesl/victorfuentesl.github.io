@@ -29,8 +29,8 @@ published: true
 
 Spring 2025	- Real Analysis (L1 Mathematics), UBO Brest, 30h Tutorials.
 
+<br>
 
----
  
  <h1 style="font-size:2em; font-weight:bold;"> Universidad de Valparaiso </h1> 
 
@@ -38,7 +38,7 @@ Spring 2025	- Real Analysis (L1 Mathematics), UBO Brest, 30h Tutorials.
   Fall 2020, Spring 2020, Fall 2021, Spring 2021 - Calculus 1 (L1 Biology, Chemistry, Bachelor of Physics, Statistics and Mathematics) [ES Full course videos](https://www.youtube.com/playlist?list=PLuKNSgZVXUiak1B3TEU9p1b8XzN3o06cS)
   
   Fall 2020, Spring 2020, Spring 2021 - Euclidean Geometry (L1 Mathematics) [ES Full course videos](https://www.youtube.com/playlist?list=PLuKNSgZVXUibvUB7_FQb4usqL7KuftbNU)
-  
+ 
 ---
-
+ <br>
  During 2019 I taught Calculus 2 (Civil Industrial Engineering) at the Pontifical Catholic University of Valparaíso, Chile.
