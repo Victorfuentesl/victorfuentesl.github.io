@@ -23,7 +23,7 @@ published: true
 </div>
 
 
-<img src="victorfuentesl.github.io/assets/img/Banner.gif" alt="Diagram" style="display:block; margin:auto;" width="400">
+<img src="assets/img/Banner.gif" alt="Diagram" style="display:block; margin:auto;" width="400">
 
 
  <h1 style="font-size:2em; font-weight:bold;"> Université de Bretagne Occidentale </h1> 
