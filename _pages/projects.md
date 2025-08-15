@@ -23,8 +23,7 @@ published: true
 </div>
 
 
-<img src="assets/img/Banner.gif" alt="Diagram" style="display:block; margin:auto;" width="400">
-
+<img src="/assets/img/Banner.gif" alt="banner GIF" width="1080" style="display:block; margin:auto;">
 
  <h1 style="font-size:2em; font-weight:bold;"> Université de Bretagne Occidentale </h1> 
 
