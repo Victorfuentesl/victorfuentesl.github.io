@@ -23,6 +23,9 @@ published: true
 </div>
 
 
+<img src="assets/img/Black Technology LinkedIn Banner.gif" alt="Diagram" style="display:block; margin:auto;" width="400">
+
+
  <h1 style="font-size:2em; font-weight:bold;"> Université de Bretagne Occidentale </h1> 
 
 Spring 2025	- Real Analysis (L1 Mathematics), UBO Brest, 30h Tutorials.
