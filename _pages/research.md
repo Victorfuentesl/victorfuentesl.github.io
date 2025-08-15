@@ -23,7 +23,7 @@ No papers submitted
 
 <br> <br>
 ---
-<br> <br>
+
 <h1 style="font-size:2em; font-weight:bold;">Thesis and reports</h1> 
 
 2024 MSc Thesis - [Classical results in comparison geometry](https://victorfuentesl.github.io/assets/pdf/Classical_results_in_comparison_geometry__Mémoire_M2__FUENTES_Victor.pdf), under supervision of Dr. Juan Souto
