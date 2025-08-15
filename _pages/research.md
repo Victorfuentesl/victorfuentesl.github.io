@@ -10,7 +10,7 @@ nav_order: 2
 
 <div style="text-align: center;">
 
-**No papers submitted**  
+No papers submitted 
 </div>
 
 
