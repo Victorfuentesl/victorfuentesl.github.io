@@ -32,6 +32,8 @@ No papers submitted
 
 <br> <br>
 <h1 style="font-size:2em; font-weight:bold;">Seminars and talks</h1> 
+
+   2025 - Münster Differential Geometry Workshop 2025 [poster](https://victorfuentesl.github.io/assets/pdf/Semi_Riemannian_Geometry_beamer.pdf)
  
    2024 - Rennes M2 talk for Semi-Riemannian geometry course; Lorentzian vector space. [slides](https://victorfuentesl.github.io/assets/pdf/Semi_Riemannian_Geometry_beamer.pdf)
 
