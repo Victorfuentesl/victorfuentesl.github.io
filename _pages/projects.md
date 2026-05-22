@@ -50,4 +50,5 @@ Spring 2025	- Real Analysis (L1 Mathematics), UBO Brest, 30h Tutorials.
  <h1 style="font-size:2em; font-weight:bold;"> Lectures notes </h1> 
 
   [(EN) p-harmonic maps between Riemannian manifolds](https://victorfuentesl.github.io/assets/pdf----):
+ <br>
   [(ES) Aplicaciones armónicas](https://victorfuentesl.github.io/assets/pdf/oniciuc_ES__apuntes.pdf): traducción desde Rumano al español de los apuntes del profesor [Cezar Oniciuc](https://www.math.uaic.ro/~oniciucc/).
