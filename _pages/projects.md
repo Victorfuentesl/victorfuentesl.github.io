@@ -42,3 +42,11 @@ Spring 2025	- Real Analysis (L1 Mathematics), UBO Brest, 30h Tutorials.
 ---
  <br>
  During 2019 I taught Calculus 2 (Civil Industrial Engineering) at the Pontifical Catholic University of Valparaíso, Chile.
+ <br>
+  
+---
+ <br>
+ 
+ <h1 style="font-size:2em; font-weight:bold;"> Lectures notes </h1> 
+
+  [(ES) Aplicaciones armónicas](https://victorfuentesl.github.io/assets/pdf/oniciuc_ES__apuntes.pdf) traducción de apuntes del profesor [Cezar Oniciuc](https://www.math.uaic.ro/~oniciucc/).
